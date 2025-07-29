@@ -1,5 +1,5 @@
 # Hi, I'm Rushabh 👋
-I'm a **Full-Stack Software Developer** with **5 years of experience** building scalable, innovative solutions in **Fintech**, **Telecom**, and **Logistics**. I’m passionate about harnessing technology to solve complex problems, with a focus on AI-driven algorithmic trading. My goal is to create impactful, self-improving systems and contribute to world-class tech companies.
+I'm a **Full-Stack Software Developer** with **5 years of experience** building scalable, innovative solutions in **Fintech**, **Telecom**, and **Logistics**. I’m passionate about harnessing technology to solve complex problems, with a focus on AI-driven technologies. My goal is to create impactful, self-improving systems and contribute to world-class tech companies and be useful.
 
 ## About Me
 - 💻 **Expertise**: Full-stack development with Java, Angular, Docker, Kubernetes, and RabbitMQ.
