@@ -13,7 +13,7 @@ I'm a **Full-Stack Software Developer** with **5 years of experience** building 
 - **[Self-Liking-bot](https://github.com/rj9797/InstagramBot)**: A bot that does the heavy lifting of posting and liking hashtags and posts on social media sites, improving speed by 95%. 
 
 ## Skills
-- **Languages**: Java, C++, Python, SQL
+- **Languages**: Java, C++, Python, PostgreSQL
 - **Frontend**: Angular, Vue, HTML/CSS
 - **Backend**: Spring Boot, Node.js, REST APIs, GraphQL
 - **DevOps**: Docker, Kubernetes, Jenkins, AWS, CI/CD
