@@ -39,4 +39,4 @@ Let’s connect to build cutting-edge solutions or discuss opportunities at inno
 ## Fun Fact
 When I’m not coding, I’m analyzing market trends or reading books to spark creativity 🌄.
 
-Let's connect.
+Let's connect to create.
