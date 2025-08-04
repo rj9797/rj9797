@@ -40,3 +40,6 @@ Let’s connect to build cutting-edge solutions or discuss opportunities at inno
 When I’m not coding, I’m analyzing market trends or reading books to spark creativity 🌄.
 
 Let's connect to create.
+
+
+![Rushabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rj9797&show_icons=true&theme=default)
