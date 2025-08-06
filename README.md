@@ -4,7 +4,7 @@ I'm a **Full-Stack Software Developer** with **5 years of experience** building 
 ## About Me
 - 💻 **Expertise**: Full-stack development with Java, Angular, Docker, Kubernetes, and RabbitMQ.
 - 🌐 **Domains**: Delivered solutions in Fintech (Portfolio management application), Telecom (network optimization,radius protocol), and Logistics (supply chain automation with bluedart).
-- 🤖 **AI Enthusiast**: Building an algorithmic trading app that leverages machine learning to optimize options strategies and improve performance dynamically.
+- 🤖 **AI Enthusiast**: Building an algorithmic trading app that leverages machine learning to optimize trading strategies and improve performance dynamically.
 - 🎯 **Mission**: To architect robust, scalable systems that drive efficiency and innovation, pushing the boundaries of technology.
 
 ## Featured Projects
