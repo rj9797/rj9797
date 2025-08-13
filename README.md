@@ -9,7 +9,7 @@ I'm a **Full-Stack Software Developer** with **5 years of experience** building 
 
 ## Featured Projects
 - **[AlgoTradeAI](https://github.com/rj9797/AlgoTradeAI)**: A self-improving algorithmic trading app using machine learning for options trading optimization. Built with Java, Spring Boot, TensorFlow, and deployed on Kubernetes. *In progress.* 
-- **[NetworkMonitor](https://github.com/rj9797/NetworkMonitor)**: A real-time telecom dashboard using Angular, Java, and RabbitMQ for scalable, message-driven architecture.
+- **[WebRtc](https://github.com/rj9797/WebIRCTC)**: A ticket booking system supporting both short and long-distance travel, leveraging a first-come, first-served algorithm with robust locking mechanisms.
 - **[Self-Liking-bot](https://github.com/rj9797/InstagramBot)**: A bot that does the heavy lifting of posting and liking hashtags and posts on social media sites, improving speed by 95%. 
 
 ## Skills
